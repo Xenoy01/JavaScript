@@ -1,0 +1,12 @@
+let a=[1,2,3,"hello",true];
+console.log(typeof a);
+console.log( a[0]);
+console.log( a[1]);
+console.log( a[2]);
+console.log( a[3]);
+a[4]=25;
+console.log( a[4]);
+console.log( a[5]);
+console.log( a[6]);
+console.log( a[7]);
+console.log( a[8]);
